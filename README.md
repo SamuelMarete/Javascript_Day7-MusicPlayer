@@ -1,2 +1,51 @@
 # Javascript_Day7-MusicPlayer
-🎵 Music Player Web App built with HTML, CSS, and JavaScript, featuring play/pause controls, a progress bar, and a playlist section. Future updates include volume control, track navigation, and shuffle options. Live Demo ⭐️🎧
+🎵 Music Player Web App
+
+A simple and interactive music player built using HTML, CSS, and JavaScript.
+
+🚀 Features
+
+🎶 Play/Pause functionality
+
+📊 Real-time progress bar
+
+📜 Playlist section for track selection
+
+💻 Responsive design for all devices
+
+💡 Future Improvements
+
+🔊 Volume control
+
+⏭️ Next/Previous track buttons
+
+🔁 Shuffle and repeat options
+
+🛠️ Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
+
+📂 Project Setup
+
+Clone the repository:
+
+[git clone https://github.com/yourusername/music-player.git](https://github.com/SamuelMarete/Javascript_Day7-MusicPlayer.git)
+
+
+Open index.html in your browser.
+
+🌐 Live Demo
+
+[Check out the live version: Music Player](https://astonishing-cobbler-0ed08b.netlify.app/)
+
+🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
