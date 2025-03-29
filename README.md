@@ -32,8 +32,7 @@ JavaScript
 📂 Project Setup
 
 Clone the repository:
-
-[git clone https://github.com/yourusername/music-player.git](https://github.com/SamuelMarete/Javascript_Day7-MusicPlayer.git)
+(https://github.com/SamuelMarete/Javascript_Day7-MusicPlayer.git)
 
 
 Open index.html in your browser.
